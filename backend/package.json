@@ -18,7 +18,7 @@
     "typescript": "^5"
   },
   "dependencies": {
-    "@better-auth/mongo-adapter": "^1.5.3",
+    "@better-auth/mongo-adapter": "^1.6.11",
     "@google/generative-ai": "^0.24.1",
     "@polar-sh/better-auth": "^1.8.3",
     "@polar-sh/sdk": "^0.46.4",
@@ -32,7 +32,7 @@
     "dotenv": "^17.3.1",
     "express": "^5.2.1",
     "helmet": "^8.1.0",
-    "inngest": "^3.52.6",
+    "inngest": "^4.4.0",
     "mongodb": "^7.2.0",
     "mongoose": "^9.6.2",
     "morgan": "^1.10.1",
